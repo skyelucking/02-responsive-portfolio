@@ -59,5 +59,13 @@ a:hover {
     height: 40px;    
     
         }
+.no-gutters {
+            margin-right: 0;
+            margin-left: 0;
+            margin-top: 0px;
+            margin-bottom: 0px;
+            padding: 0px;
+          
+} 
 
  
