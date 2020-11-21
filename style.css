@@ -1,6 +1,15 @@
 /* .body {
     background-color: black;
 } */
+
+/* Portfolio Images */
+.port-img {
+    margin-left: 10px; 
+    margin-right: 10px;
+    
+
+}
+
 a:hover { 
     color: rgb(226, 223, 223) !important;
  }
