@@ -15,6 +15,7 @@ a:hover {
     color: rgb(226, 223, 223) !important;
  }
 
+ /* Navbar Formatting */
 .nav-link  {
     background-color: #333333;
     font-weight: bold;
@@ -69,6 +70,8 @@ a:hover {
     height: 40px;    
     
         }
+
+/* To Remove Spacing on Boxes        */
 .no-gutters {
             margin-right: 0;
             margin-left: 0;
@@ -77,7 +80,7 @@ a:hover {
             padding: 0px;
           
 } 
-
+/* Cards that hold info on index page       */
 .card-body {
 
     height: 500px;
