@@ -15,4 +15,12 @@ This is portfolio website for Skye Lucking. While it's the homework assignment f
 <h1>Link to GitHub Repo</h1>
 <a href="https://github.com/skyelucking/02-responsive-portfolio">https://github.com/skyelucking/02-responsive-portfolio</a>
 
+<hr>
+Now here is your joke...<br>
+What does the world's top dentist get? 
+<br>
+<br>
+<br>
+<em>A little plaque.</em>
+
 
