@@ -15,6 +15,14 @@ a:hover {
     color: rgb(226, 223, 223) !important;
  }
 
+ a:visited { 
+    color: rgb(255, 255, 255) !important;
+ }
+
+ a:active { 
+    color: rgb(226, 223, 223) !important;
+ }
+
  /* Navbar Formatting */
 .nav-link  {
     background-color: #333333;
@@ -67,7 +75,8 @@ a:hover {
     min-height:30px !important; 
     padding-top:5px !important; 
     padding-bottom:0 !important; 	
-    height: 40px;    
+    height: 40px; 
+       
     
         }
 
