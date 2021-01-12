@@ -11,12 +11,47 @@
 
 }
 
+.port-section-img {
+    margin-left: 10px; 
+    margin-right: 10px;
+    width: 175px;
+    height: 175;
+
+}
+
+.portlong-img {
+    margin-left: 10px; 
+    margin-right: 10px;
+    float: inherit;
+    width: 650px;
+    margin-top: 25px;
+    
+
+}
+.port-desc {
+    color: white; 
+    background-color: #333333; 
+    border-color: #4b93f0;
+ }
+
+ .port-col1 {
+    background-color: #dfdfdf; 
+    border-color: #dfdfdf;
+    color: black; 
+ }
+
+ .port-col2 {
+    background-color: #cfe2fb; 
+    border-color: #cfe2fb;
+    color: black; 
+ }
+
 a:hover { 
-    color: rgb(226, 223, 223) !important;
+    color: rgb(163, 0, 0) !important;
  }
 
  a:visited { 
-    color: rgb(255, 255, 255) !important;
+    color:  rgb(222, 225, 228) !important;
  }
 
  a:active { 
