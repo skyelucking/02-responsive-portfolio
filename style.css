@@ -36,7 +36,6 @@
 
  .port-col1 {
     background-color: #fbfbfb; 
-    /* border-color: #dfdfdf; */
     color: black; 
     min-width: 300px;
     border: 0px;
@@ -44,8 +43,8 @@
 
  .port-col2 {
     background-color: #eef4fb; 
-    /* border-color: #cfe2fb; */
     color: black; 
+    min-width: 300px;
     border: 0px;
  }
 
