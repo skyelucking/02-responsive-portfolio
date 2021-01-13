@@ -35,24 +35,27 @@
  }
 
  .port-col1 {
-    background-color: #dfdfdf; 
-    border-color: #dfdfdf;
+    background-color: #fbfbfb; 
+    /* border-color: #dfdfdf; */
     color: black; 
+    min-width: 300px;
+    border: 0px;
  }
 
  .port-col2 {
-    background-color: #cfe2fb; 
-    border-color: #cfe2fb;
+    background-color: #eef4fb; 
+    /* border-color: #cfe2fb; */
     color: black; 
+    border: 0px;
  }
 
 a:hover { 
     color: rgb(163, 0, 0) !important;
  }
 
- a:visited { 
+ /* a:visited { 
     color:  rgb(222, 225, 228) !important;
- }
+ } */
 
  a:active { 
     color: rgb(226, 223, 223) !important;
@@ -122,12 +125,22 @@ a:hover {
             margin-top: 0px;
             margin-bottom: 0px;
             padding: 0px;
+            border-left: 0px;
+            border-right: 0px;
           
 } 
 /* Cards that hold info on index page       */
 .card-body {
+    /* height: 100%; */
+    min-height: 35rem;
+    border-bottom: 0px;
+    border-width: 0px;
+    border-left: 0px;
+}
 
-    height: 100%;
+.carousel-control-next {
+    color: red;
+    visibility: visible;
 }
 
  
